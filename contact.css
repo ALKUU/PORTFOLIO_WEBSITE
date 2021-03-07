@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+	background: url("12.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+  color: #fba14b;
+  font-family: "montserrat";
+}
+h1{
+  position: relative;
+  top: 155px
+
+}
+.h,img{
+  width: 70px;
+	height: 70px;
+	border-radius: 50%;
+}
+#link{
+  position: relative;
+  left: 585px;
+  top: 235px
+}
+#hackr{
+  position: relative;
+  left: 695px;
+  top: 94px
+}
+#git{
+  position: relative;
+  left: 695px;
+  top: 249px
+}
+#insta{
+  position: relative;
+  left: 585px;
+  top: 109px
+}
+p{
+  color:white;
+  position: relative;
+  top: 124px;
+}

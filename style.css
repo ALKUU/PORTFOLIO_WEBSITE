@@ -1,0 +1,64 @@
+body {
+ background-image: url("12.jpg");
+ background-repeat:no-repeat;
+ background-size: cover;
+ color: white;
+}
+
+.Alka{
+    	color: #fba14b;
+    font-size:59px;
+}
+.h11{
+   text-align: center;
+font-size:17px;
+
+
+}
+.h44{
+
+ text-align: center;
+ font-size:16px;
+}
+
+#photto{
+  display: block;
+  margin-top: 165px;
+margin-left: auto;
+margin-right: auto;
+width: 13%;
+
+
+}
+.navbar{
+        display: inline-block;
+    }
+    .navbar li{
+        display: inline-block;
+        font: 25px;
+        padding-left: 20px;
+        padding-right: 20px;
+
+    }
+    .mid{
+
+       width: 40%;
+       margin-top: 0px;
+       margin-bottom: 1px;
+       margin-right: 10px;
+       margin-left: 825px;
+   }
+   .navbar li a{
+     font-size: 16px;
+      text-decoration:none;
+      	color: #fba14b;
+  }
+  a:hover {
+  background-color: white;
+}
+  .logo{
+    position: absolute;
+    width: 5.3%;
+    margin-left: 75px;
+    margin-top: 13px;
+  }
